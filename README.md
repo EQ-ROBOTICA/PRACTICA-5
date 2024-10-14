@@ -54,8 +54,6 @@ Fend
 
 El proceso comienza en el punto "Home" como siempre. Se hizo uso de comandos como Move, que permitió realizar la escritura de manera precisa a una velocidad moderada. En caso de haber utilizado el comando Go, el movimiento habría sido más rápido pero menos preciso, lo cual no era lo ideal para este objetivo en específico. Como se mencionó anteriormente, a cada punto clave se le implementó una suma de coordenadas dada en mm, y siguiendo una secuencia se pudo realizar el trazo de cada letra. Se utilizó el comando de movimiento Arc, el cual permitió establecer los puntos de inicio, medio y final de trazos curvados necesarios en algunas letras. Asimismo, cuando era necesario, se ajustó la altura en el eje Z para escribir únicamente cuando se deseaba.
 
-![Uploading image.png…]()
-
 
 ## Conclusiones
 - *Edgar Zahid Hernandez Garcia:*
