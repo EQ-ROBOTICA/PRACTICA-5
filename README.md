@@ -62,8 +62,7 @@ El proceso comienza en el punto "Home" como siempre. Se hizo uso de comandos com
 La implementación de sumas y restas de coordenadas me permitió comprender y trabajar de manera más intuitiva con la trayectoria a trazar, además de ahorrarnos bastante tiempo en lo que podríamos haber tardado en guardar cada punto de trazado. Igualmente, la implementación de los comandos de movimiento Move y Arc, en lugar de Go, nos permitió realizar trazados más precisos, lo cual fue fundamental al tener como objetivo la escritura.
 
 - *Gael Mateo Rangel Chavez:*
+Esta práctica mostró cómo el brazo robótico puede coordinar movimientos precisos para escribir una palabra en el pizarrón. Usando comandos como Move y Arc, se logró que el robot realizara trazos curvos y rectos, simulando el movimiento humano.
 
-  
 - *Alejandro Saldaña Garcia:*
- 
-
+   
